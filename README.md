@@ -1,0 +1,1 @@
+A flood rainfall disaster prediction website using Flask and MobileNetV2 architecture model, trained on the data provided on the government website for rainfall & floods till 2014, can make regional predictions in india.
